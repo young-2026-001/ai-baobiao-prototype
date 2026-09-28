@@ -1,6 +1,6 @@
 # AI助手编报原型
 
-基于 HTML / CSS / JavaScript 的「AI 助手」智能编报原型（Skynet 产品原型）。
+基于 HTML / CSS / JavaScript 的「AI 助手」智能编报原型（产品原型）。
 
 ## 项目结构
 
